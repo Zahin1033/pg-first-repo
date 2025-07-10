@@ -1,0 +1,13 @@
+h2{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 40px;
+    padding: 10px;
+
+}
+p{
+    background-color: chartreuse;
+    color: black;
+    text-align: justify;
+}
